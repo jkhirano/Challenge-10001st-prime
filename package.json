@@ -19,6 +19,6 @@
   "homepage": "https://github.com/devleague/Challenge-10001st-prime#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.3"
+    "mocha": "^6.2.0"
   }
 }
